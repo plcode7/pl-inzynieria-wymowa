@@ -39,3 +39,146 @@ foundation	faundejszn	inzynieria	fundament
 concrete	konkrit	inzynieria	beton
 steel	stil	inzynieria	stal
 structural	strakczerl	inzynieria	konstrukcyjny
+beam	bim	inzynieria	belka
+column	kolum	inzynieria	słup
+slab	slab	inzynieria	płyta
+truss	tras	inzynieria	kratownica
+girder	gerder	inzynieria	dźwigar
+rafter	rafter	inzynieria	krokiew
+joist	dżojst	inzynieria	belka stropowa
+purlin	perlin	inzynieria	płatew
+lintel	lintel	inzynieria	nadproże
+pillar	pilar	inzynieria	filar
+arch	arcz	inzynieria	łuk
+dome	doum	inzynieria	kopuła
+vault	volt	inzynieria	sklepienie
+wall	wol	inzynieria	ściana
+partition	partyszn	inzynieria	ścianka działowa
+roof	ruf	inzynieria	dach
+ceiling	silig	inzynieria	sufit
+floor	flor	inzynieria	podłoga
+staircase	sterkejs	inzynieria	klatka schodowa
+elevator	elewejtor	inzynieria	winda
+escalator	eskalejtor	inzynieria	schody ruchome
+bridge deck	bridż dek	inzynieria	pomost mostu
+abutment	abatment	inzynieria	przyczółek
+pier	pier	inzynieria	filar mostu
+cable	kejbl	inzynieria	kabel
+suspension	saspenszn	inzynieria	zawieszenie
+tensile	tensajl	inzynieria	rozciągający
+compression	kompreszn	inzynieria	ściskanie
+shear	szir	inzynieria	ścinanie
+bending moment	bending moment	inzynieria	moment zginający
+deflection	diflekszn	inzynieria	ugięcie
+fatigue strength	fatig strenkth	inzynieria	wytrzymałość zmęczeniowa
+yield strength	jild strenkth	inzynieria	granica plastyczności
+ultimate strength	altimit strenkth	inzynieria	wytrzymałość na rozciąganie
+modulus	modjulus	inzynieria	moduł
+elasticity	elastisiti	inzynieria	sprężystość
+plasticity	plastisiti	inzynieria	plastyczność
+hardness	hardnes	inzynieria	twardość
+ductility	daktiliti	inzynieria	ciągliwość
+brittle	britl	inzynieria	kruchy
+corrosion	korouszn	inzynieria	korozja
+oxidation	oksidejszn	inzynieria	utlenianie
+galvanizing	galwanajzing	inzynieria	cynkowanie
+coating	kołtyng	inzynieria	powłoka
+paint	pejnt	inzynieria	farba
+primer	prajmer	inzynieria	grunt
+sealant	silant	inzynieria	uszczelniacz
+adhesive	adhesiw	inzynieria	klej
+bolt	bolt	inzynieria	śruba
+nut	nat	inzynieria	nakrętka
+washer	wosz	inzynieria	podkładka
+rivet	riwit	inzynieria	nit
+screw	skru	inzynieria	wkręt
+anchor bolt	enkor bolt	inzynieria	kotwa
+weld seam	weld sim	inzynieria	spoina
+brazing	brejzing	inzynieria	lutowanie twarde
+soldering	solderyng	inzynieria	lutowanie
+machining	mesznig	inzynieria	obróbka skrawaniem
+milling	milyng	inzynieria	frezowanie
+turning	terning	inzynieria	toczenie
+drilling	drylling	inzynieria	wiercenie
+grinding	grajndyng	inzynieria	szlifowanie
+lathe	lejd	inzynieria	tokarka
+mill	mil	inzynieria	frezarka
+press	pres	inzynieria	prasa
+forging	forging	inzynieria	kucie
+casting	kastyng	inzynieria	odlewanie
+extrusion	ekstruzjon	inzynieria	wyciskanie
+injection molding	indżekszn moldyng	inzynieria	formowanie wtryskowe
+tolerance fit	tolerans fit	inzynieria	pasowanie
+clearance	klirens	inzynieria	luz
+interference fit	interfirens fit	inzynieria	pasowanie wciskowe
+datum	datum	inzynieria	baza
+dimension	dajmenszn	inzynieria	wymiar
+drawing	drojing	inzynieria	rysunek
+assembly	asembli	inzynieria	zespół
+subassembly	sabasembli	inzynieria	podzespół
+component	komponent	inzynieria	komponent
+part	part	inzynieria	część
+spare part	spejr part	inzynieria	część zamienna
+bill of materials	bil of materiols	inzynieria	zestawienie materiałów
+material	materiel	inzynieria	materiał
+alloy	alloj	inzynieria	stop
+aluminum	aluminjum	inzynieria	aluminium
+titanium	tajtejnjum	inzynieria	tytan
+copper	kopr	inzynieria	miedź
+brass	bras	inzynieria	mosiądz
+bronze	bronz	inzynieria	brąz
+nickel	nikl	inzynieria	nikiel
+zinc	zink	inzynieria	cynk
+lead	led	inzynieria	ołów
+composite	kompozit	inzynieria	kompozyt
+fiberglass	fajbergles	inzynieria	włókno szklane
+carbon fiber	karbon fajber	inzynieria	włókno węglowe
+rubber	rabr	inzynieria	guma
+polymer	polimer	inzynieria	polimer
+plastic	plastik	inzynieria	tworzywo sztuczne
+ceramic	seramik	inzynieria	ceramika
+glass	glas	inzynieria	szkło
+wood	wud	inzynieria	drewno
+plywood	plajwud	inzynieria	sklejka
+concrete mix	konkrit miks	inzynieria	mieszanka betonowa
+reinforcement	rajnforsment	inzynieria	zbrojenie
+rebar	rebar	inzynieria	pręt zbrojeniowy
+mortar	morter	inzynieria	zaprawa
+brick	brik	inzynieria	cegła
+block	blok	inzynieria	pustak
+insulation	insjulejszn	inzynieria	izolacja
+thermal insulation	terml insjulejszn	inzynieria	izolacja termiczna
+vapor barrier	wejpor barieр	inzynieria	paroizolacja
+waterproofing	łoterprufing	inzynieria	hydroizolacja
+drainage	dreinidż	inzynieria	drenaż
+sewer	sjuer	inzynieria	kanalizacja
+water supply	łoter sapla	inzynieria	zaopatrzenie w wodę
+gas pipeline	gas pajplajn	inzynieria	gazociąg
+electrical wiring	elektrykal łajring	inzynieria	instalacja elektryczna
+cable tray	kejbl trej	inzynieria	korytko kablowe
+switchboard	switczbord	inzynieria	rozdzielnica
+circuit breaker	serkit brejker	inzynieria	wyłącznik automatyczny
+fuse	fjuz	inzynieria	bezpiecznik
+relay	rilej	inzynieria	przekaźnik
+contactor	kontraktor	inzynieria	stycznik
+motor	moutor	inzynieria	silnik
+generator	dżenerejtor	inzynieria	generator
+transformer	transformer	inzynieria	transformator
+inverter	inverter	inzynieria	falownik
+battery	bateri	inzynieria	akumulator
+solar panel	solar panel	inzynieria	panel słoneczny
+wind turbine	łind terbajn	inzynieria	turbina wiatrowa
+heat exchanger	hit ekschejndżer	inzynieria	wymiennik ciepła
+boiler	bojler	inzynieria	kocioł
+radiator	rejdiejtor	inzynieria	grzejnik
+compressor	kompresor	inzynieria	sprężarka
+fan	fan	inzynieria	wentylator
+blower	blołer	inzynieria	dmuchawa
+valve actuator	walw aktiuejtor	inzynieria	napęd zaworu
+flow meter	flou miter	inzynieria	przepływomierz
+pressure gauge	preszer gejdż	inzynieria	manometr
+thermocouple	termokapl	inzynieria	termopara
+encoder	enkoder	inzynieria	enkoder
+microcontroller	majkrokontroleр	inzynieria	mikrokontroler
+embedded system	embedded system	inzynieria	system wbudowany
+firmware	firmler	inzynieria	oprogramowanie sprzętowe
